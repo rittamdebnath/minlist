@@ -1,6 +1,7 @@
-header h1{
-  font-size: 100px;
-}
 .lead{
   margin:0 auto;
+}
+
+.lead h1{
+  font-size: 20em;
 }
